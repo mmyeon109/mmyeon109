@@ -16,7 +16,7 @@
           <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=000000"/>
           <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=000000"/>
           <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=000000"/>
-          <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=000000"/>
+<!--           <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=000000"/> -->
         </td>
       </tr>
            <tr>
